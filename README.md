@@ -163,10 +163,8 @@ The following features are not currently included:
 ## 👨‍💻 Developed By
 
 **Team Members:**
-- [Your Name]
-- [Friend's Name]
-
-**Project Guide:** [Guide's Name]
+- Ijhar Patel
+- 
 
 ---
 
